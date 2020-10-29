@@ -2,7 +2,8 @@
 
 This is the file with how-to instructions
 
-### Date: 29th Oct, 2020 
+# Keyboard check
+a quick brown fox jumps over the lazy dog.
 
 ## Adding components for the website
 1. index.html
