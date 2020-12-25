@@ -85,7 +85,7 @@ Remote
 	cd ~
 	cd .ssh 										# If not present, create it
 	
-	ssh-keygen -t rsa -C "adler1889@protonmail.com"		# generate an SSH key
+	ssh-keygen -t rsa -C "yourmailid@domain.com"		# generate an SSH key
 	# id_rsa file contains private key. Don't share it. 
 	# id_rsa.pub file contains public key. Share it as required.
 
